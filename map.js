@@ -1,4 +1,4 @@
-mapboxgl.accessToken = "pk.eyJ1Ijoic3RlcGhlbmFudGkiLCJhIjoiY2t4NDN5MDJ2MDJkcTJ2cGFjOGk3MW9jcyJ9.idvR4RaqkBIA5w32u482kw";
+mapboxgl.accessToken = "pk.eyJ1Ijoic3RlcGhlbmFudGkiLCJhIjoiY2x5M2ZndmtqMDM4YTJrb2ozN24zb3JmbCJ9.qSuAh5SE-sou1NQF3xYUGQ";
 var map = new mapboxgl.Map({
   container: "map",
   style: "mapbox://styles/stephenanti/cl3ugxwsm001r14pbmpt4ep6c",
@@ -85,7 +85,7 @@ map.on('mouseenter', "counties_fill", function () {
 
   // Map2
   
-  mapboxgl.accessToken = "pk.eyJ1Ijoic3RlcGhlbmFudGkiLCJhIjoiY2t4NDN5MDJ2MDJkcTJ2cGFjOGk3MW9jcyJ9.idvR4RaqkBIA5w32u482kw";
+  mapboxgl.accessToken = "pk.eyJ1Ijoic3RlcGhlbmFudGkiLCJhIjoiY2x5M2ZndmtqMDM4YTJrb2ozN24zb3JmbCJ9.qSuAh5SE-sou1NQF3xYUGQ";
 var map2 = new mapboxgl.Map({
   container: "map2",
   style: "mapbox://styles/stephenanti/cl3ugxwsm001r14pbmpt4ep6c",
